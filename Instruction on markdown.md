@@ -29,6 +29,9 @@ To insert an image you mark the name of the file and insert the way to it like t
 ![Петенька](%D0%9F%D0%B5%D1%82%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0.jpg)
 You can repeat these actions more times.
 ## Grades initial for the conflict
+Let's create a conflict.kk
+One little conflict.
+Add it to our history)
 ## Tables 
 The lesson about this haven't started yet. 
 I'm trying to create a conflict with tables now.
