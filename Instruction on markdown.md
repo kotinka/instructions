@@ -11,7 +11,7 @@ Use symbol # to highligt the text as in the heading above and ## or ### and so o
 2. To make marked list you have just do it.
 ## Images
 To insert an image you mark the name of the file and insert the way to it like that: 
-![Петека](%D0%9F%D0%B5%D1%82%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0.jpg)
+![Петенька](%D0%9F%D0%B5%D1%82%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0.jpg)
 ## Grades
 ## Tables
 ## Quotes
