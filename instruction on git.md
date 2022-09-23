@@ -13,3 +13,11 @@
 * **git checkout master** to return to base final version
 * **q** quit to leave journal of your commits
 * **git diff** to see the concrete changes clearly.
+## Git branch commands
+* **git branch** to see all branches
+* **git branch name** to add new branch
+* **git branch merge name** to unit the branch with the main branch
+* **git branch -d name** to delete the branch correctly
+* **git branch -D name** to delete the branch dispite smth wrong
+* **git log --graph** to see the commits and their relation to different states before and after merge
+* **clear** to clear the window of the terminal
