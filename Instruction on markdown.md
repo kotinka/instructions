@@ -25,7 +25,7 @@ To make your text strong you have tape 2* **on the both sides as here**.
 + With plus
 2. To make marked list you have just do it. 
 ## Images
-To insert an image you mark the name of the file and insert the way to it like that: 
+To insert an image you mark the name of the file and insert the way to it *like that*: 
 ![Петенька](%D0%9F%D0%B5%D1%82%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0.jpg)
 ## Grades
 ## Tables
