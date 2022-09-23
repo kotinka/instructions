@@ -11,6 +11,7 @@ To make your text strong you have tape 2* **on the both sides as here**.
 * One
 * Another
 + With plus
++ Another with plus
 2. To make marked list you have just do it. 
 ## Images
 ### Italic and strong 
