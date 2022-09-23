@@ -3,7 +3,7 @@
 ### Headings
 Use symbol # to highligt the text as in the heading above and ## or ### and so on to make headings with not so big letters.
 ### Italic 
-To mark your text italic use 1* *on two sides of your text as here.* 
+To mark your text italic use 1* *on two sides of your text as here.* OK, like that) 
 ### Strong
 To make your text strong you have tape 2* **on the both sides as here**.
 ## Lists
