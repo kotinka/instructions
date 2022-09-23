@@ -30,6 +30,7 @@ To insert an image you mark the name of the file and insert the way to it like t
 You can repeat these actions more times.
 ## Grades
 ## Tables 
-__*Tables*__ The lesson about this haven't started yet.
+The lesson about this haven't started yet. 
+I'm trying to create a conflict with tables now.
 ## Quotes
 ## Inclusion
