@@ -11,8 +11,7 @@ To make your text strong you have tape 2* **on the both sides as here**.
 * One
 * Another
 + With plus
-2. To make marked list you have just do it typing the right numbers of the list. 
-
+2. To make marked list you have just do it. 
 ## Images
 ### Italic and strong 
 1. To mark your text italic use 1* *on two sides of your text as here.* 
