@@ -7,7 +7,7 @@ To mark your text italic use 1* *on two sides of your text as here.* OK, like th
 ### Strong
 To make your text strong you have tape 2* **on the both sides as here**.
 ## Lists
-1. To make unmarked list you may use symbol * before your text as in example below. __For example:__ 
+1. To make unmarked list you may use symbol * before your text as in example below. 
 * One
 * Another
 + With plus
